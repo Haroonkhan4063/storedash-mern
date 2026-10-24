@@ -1,8 +1,8 @@
-# StoreDash - Full-Stack E-Commerce & Analytics Dashboard 🚀
+# StoreDash - Full-Stack E-Commerce & Analytics Dashboard 
 
 StoreDash is a production-ready, full-stack e-commerce platform featuring a real-time admin analytics dashboard. Built with the MERN stack, it elevates standard e-commerce functionality with atomic stock reservations, advanced data visualizations, and a premium dark glassmorphism UI tailored for enterprise usability.
 
-🌍 **Live Demo:** [Insert Vercel Live Link Here]
+🌍 **Live Demo:** [https://storedash-mern-aqar.vercel.app/]
 
 ## ✨ Features
 - **Real-time Analytics Dashboard:** KPI cards, interactive Recharts (line, bar, donut), and sortable data tables fed by complex MongoDB aggregations.
